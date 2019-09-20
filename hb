@@ -1,4 +1,5 @@
-{
+{       
+        "code":200,
 	"msg": "重要通知",
 	"data": {
 		"android_vercode_show": 0,
